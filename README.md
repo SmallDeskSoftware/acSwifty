@@ -1,2 +1,2 @@
-# acSwifty
+# acSwiftyLibrary
 Atcoder library for Swift
